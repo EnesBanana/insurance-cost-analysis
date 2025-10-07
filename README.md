@@ -59,3 +59,8 @@ The dataset used in this project is a modified version of the "Medical Insurance
     * `numpy` (for numerical operations)
     * `matplotlib` & `seaborn` (for data visualization)
     * `scikit-learn` (for machine learning models and evaluation)
+## 🧩 **Key Takeaways**
+
+- **Ridge Regression** helped mitigate *overfitting* observed in standard Linear Regression models.  
+- **BMI** and **Smoking Status** were identified as the most influential predictors of medical charges.  
+- The project demonstrates a complete **end-to-end data science workflow** — from raw data processing to predictive modeling.  
