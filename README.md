@@ -30,14 +30,19 @@ The analysis within the Jupyter Notebook is structured as follows:
 
 ***
 
-## 📊 Dataset
+## 📊 Dataset Source  
+This project uses a **modified version** of the dataset provided for the IBM Data Science Course:  
+[👉 IBM Modified Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-Coursera/medical_insurance_dataset.csv)  
 
-The dataset used in this project is a modified version of the "Medical Insurance Price Prediction" dataset from Kaggle, which was filtered and prepared for the IBM course.
+The **original dataset** can be found on Kaggle:  
+[💾 Medical Insurance Price Prediction – Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction)  
 
-* **Dataset Used (IBM Version):** [medical_insurance_dataset.csv](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-Coursera/medical_insurance_dataset.csv)
-* **Original Dataset (Kaggle):** [Medical Insurance Price Prediction](https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction)
+**License:** [CC0 1.0 Universal (Public Domain)](https://creativecommons.org/publicdomain/zero/1.0/)  
 
-### Data Dictionary
+📁 The dataset used in this project is included in the repository under the following path:  
+`dataset/medical_insurance_dataset.csv`
+
+## Data Dictionary
 
 | Parameter | Description | Content Type |
 |---|---|---|
